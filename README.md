@@ -1,12 +1,18 @@
-# LosangelesM
-  
-[Visit Demo Website Hosted by Heroku](https://loseangeles-aishwarya.herokuapp.com/)
-# Screenshot
-<img width="1440" alt="Screenshot 2021-10-12 at 1 59 07 PM" src="https://user-images.githubusercontent.com/89976628/136920827-98397013-083b-4253-8098-1d62b28597bf.png">
+# Los Angeles Mountain website(HTML Assesment)
+This website is an example of Los Angeles Mountains made through HTML/CSS
 
-## Tech used
+[Live Heroku Deployment](https://html-assessment.herokuapp.com/)
+
+Some Screen shots
+![image](https://github.com/Pratikdc/HTML-assesment/blob/main/Screenshots/Screenshot%202022-02-11%20at%2011.52.34%20AM.png)
+![image](https://github.com/Pratikdc/HTML-assesment/blob/main/Screenshots/Screenshot%202022-02-11%20at%2011.54.35%20AM.png)
+![image](https://github.com/Pratikdc/HTML-assesment/blob/main/Screenshots/Screenshot%202022-02-11%20at%2011.55.10%20AM.png)
+
+# Technologies used
 * HTML
 * CSS
-## Installation
-No need to install anything, just open index.html.
+* PHP
+
+# Installation
+* No need of any installation just click on the index.html file to see the website
 
